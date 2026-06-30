@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/1Devastra/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/1Devastra/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/1Devastra/DSA/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/1Devastra/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/1Devastra/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/1Devastra/DSA/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/1Devastra/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/1Devastra/DSA/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/1Devastra/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
 | ------- |
