@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/1Devastra/DSA/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/1Devastra/DSA/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/1Devastra/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/1Devastra/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/1Devastra/DSA/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/1Devastra/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/1Devastra/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/1Devastra/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/1Devastra/DSA/tree/master/0090-subsets-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/1Devastra/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
