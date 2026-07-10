@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/1Devastra/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1Devastra/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/1Devastra/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/1Devastra/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/1Devastra/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1Devastra/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/1Devastra/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/1Devastra/DSA/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/1Devastra/DSA/tree/master/1768-merge-strings-alternately) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/1Devastra/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/1Devastra/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1Devastra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1673-find-the-most-competitive-subsequence](https://github.com/1Devastra/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -123,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1Devastra/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/1Devastra/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/1Devastra/DSA/tree/master/0090-subsets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -167,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1Devastra/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
