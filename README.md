@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/1Devastra/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/1Devastra/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1929-concatenation-of-array](https://github.com/1Devastra/DSA/tree/master/1929-concatenation-of-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/1Devastra/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1Devastra/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/1Devastra/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/1Devastra/DSA/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1Devastra/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/1Devastra/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1Devastra/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/1Devastra/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1Devastra/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/1Devastra/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
