@@ -17,7 +17,7 @@ public:
             if(A[i].first!=A[i-1].first){
                 r++;
             }
-                ans[A[i].second]=r;  
+            ans[A[i].second]=r;  
     }
      return ans;
     }
