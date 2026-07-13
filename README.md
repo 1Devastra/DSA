@@ -199,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/1Devastra/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/1Devastra/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/1Devastra/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
