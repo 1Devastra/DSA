@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/1Devastra/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/1Devastra/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/1Devastra/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/1Devastra/DSA/tree/master/0344-reverse-string) |
@@ -136,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/1Devastra/DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1Devastra/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/1Devastra/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/1Devastra/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/1Devastra/DSA/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/1Devastra/DSA/tree/master/0797-all-paths-from-source-to-target) |
