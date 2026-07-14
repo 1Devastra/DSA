@@ -198,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1Devastra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/1Devastra/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/1Devastra/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1Devastra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/1Devastra/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/1Devastra/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/1Devastra/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1Devastra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1Devastra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
