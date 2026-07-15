@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1Devastra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1Devastra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1Devastra/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/1Devastra/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/1Devastra/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/1Devastra/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/1Devastra/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/1Devastra/DSA/tree/master/0605-can-place-flowers) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/1Devastra/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/1Devastra/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
