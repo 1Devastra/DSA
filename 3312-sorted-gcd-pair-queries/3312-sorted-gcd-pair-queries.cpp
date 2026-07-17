@@ -8,7 +8,7 @@ public:
         for (int x : nums)
             freq[x]++;
 
-        // exact[g] = number of pairs having gcd exactly g
+     
         vector<long long> exact(mx + 1, 0);
 
         for (int g = mx; g >= 1; g--) {
