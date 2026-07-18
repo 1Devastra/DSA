@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/1Devastra/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/1Devastra/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/1Devastra/DSA/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1Devastra/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/1Devastra/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/1Devastra/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/1Devastra/DSA/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/1Devastra/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/1Devastra/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1Devastra/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/1Devastra/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1Devastra/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/1Devastra/DSA/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1Devastra/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1Devastra/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1Devastra/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/1Devastra/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
