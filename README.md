@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/1Devastra/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/1Devastra/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1Devastra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/1Devastra/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/1Devastra/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/1Devastra/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/1Devastra/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/1Devastra/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/1Devastra/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/1Devastra/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/1Devastra/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/1Devastra/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1Devastra/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/1Devastra/DSA/tree/master/0443-string-compression) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/1Devastra/DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/1Devastra/DSA/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/1Devastra/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1Devastra/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
