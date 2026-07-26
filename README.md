@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/1Devastra/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1Devastra/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/1Devastra/DSA/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/1Devastra/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/1Devastra/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/1Devastra/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/1Devastra/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/1Devastra/DSA/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/1Devastra/DSA/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/1Devastra/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/1Devastra/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/1Devastra/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1Devastra/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/1Devastra/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1Devastra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/1Devastra/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/1Devastra/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/1Devastra/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/1Devastra/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/1Devastra/DSA/tree/master/1833-maximum-ice-cream-bars) |
