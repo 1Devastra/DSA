@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1Devastra/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/1Devastra/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/1Devastra/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1Devastra/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1Devastra/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1Devastra/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/1Devastra/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1Devastra/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/1Devastra/DSA/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/1Devastra/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1Devastra/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/1Devastra/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/1Devastra/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/1Devastra/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1Devastra/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/1Devastra/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/1Devastra/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1Devastra/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/1Devastra/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1Devastra/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
